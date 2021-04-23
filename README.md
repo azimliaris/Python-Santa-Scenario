@@ -4,6 +4,9 @@
  Program calculates how much of this year's gifts will be delivered on time as a result of changes in the determined parameters.
  
  Parameters:
+ 
  Injury status of the deers
+ 
  Santa's weight
+ 
  Child population
